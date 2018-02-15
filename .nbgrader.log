@@ -1,0 +1,38 @@
+[QuickStartApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[QuickStartApp | INFO] Creating directory '/Users/MarceGomez/Documents/Assignments/course_demo'...
+[QuickStartApp | INFO] Copying example from the user guide...
+[QuickStartApp | INFO] Generating example config file...
+[QuickStartApp | INFO] Done! The course files are located in '/Users/MarceGomez/Documents/Assignments/course_demo'.
+    
+    To get started, you can edit the source notebooks located in:
+    
+        /Users/MarceGomez/Documents/Assignments/course_demo/source/ps1
+    
+    Once you have edited them to your satisfaction, you can create
+    the student version by running `nbgrader assign ps1` from the
+    '/Users/MarceGomez/Documents/Assignments/course_demo' directory.
+    
+    For further details, please see the full nbgrader documentation at:
+    
+        https://nbgrader.readthedocs.io/
+    
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/MarceGomez/Documents/Assignments
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=8cc7020339b128fe3e860cacdad30a1f5f96fb1ff86daf4a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8cc7020339b128fe3e860cacdad30a1f5f96fb1ff86daf4a
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook course_demo/source/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/course_demo/source/ps1/jupyter.png (127.0.0.1) 0.97ms
+[NotebookApp | INFO] Kernel started: 444f5f2a-d4f4-45a2-b7e4-86daf33f9df7
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180215143357 (127.0.0.1) 9.82ms referer=http://localhost:8888/notebooks/course_demo/source/ps1/problem1.ipynb
